@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sonilal Chavhan</h1>
 <h3 align="center">A passionate C# .NET Developer & Cloud-Native</h3>
 
-- 🔭 I’m currently working on **FXMicropay**
+- 🔭 I’m currently working on **FXMicropay** ,**TradeOrchestrator**
 
 - 🌱 I’m currently learning **Docker,AWS,K8s**
 
 - 👯 I’m looking to collaborate on **Microservice**
 
-- 💬 Ask me about **C#,.Net,Jenkins,React,React Native,Angular,SQL,HTML,JS,CSS,Boostrap.**
+- 💬 Ask me about **C#,.Net,Jenkins,SonarQube,Nexus,Splunk,Snyk,React,React Native,Angular,SQL,Firebase,Appwrite,HTML,JS,CSS,Boostrap.**
 
 - 📫 How to reach me **chavhansonilal@gmail.com**
 
