@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FXMicropay** ,**TradeOrchestrator**
 
-- 🌱 I’m currently learning **Docker,AWS,K8s**
+- 🌱 I’m currently learning **Docker,AWS,K8s,Syetem Design**
 
 - 👯 I’m looking to collaborate on **Microservice**
 
