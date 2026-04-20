@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **FXMicropay** & **TradeOrchestrator**
+- 🔭 Currently working on **FXMicropayAPI** & **TradeOrchestrator**
 - 🌱 Learning **Docker, Kubernetes (K8s), AWS & System Design**
 - 👯 Open to collaborating on **Microservices & Cloud-Native Projects**
 - 💬 Ask me about  
